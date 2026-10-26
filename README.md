@@ -24,6 +24,10 @@ Rename the project after cloning: update the `name` field in [package.json](pack
 
 `dev` is the default working branch; CI runs there on every push and pull request. `main` is deploy-only: a linear fast-forward from `dev` — gated on `verify` and the SE smoke suite being green — that triggers the Pages deploy.
 
+## AI Usage
+
+See [AI-USAGE.md](AI-USAGE.md).
+
 ## License
 
 GNU General Public License v3.0 or later — see [LICENSE](LICENSE). Copyright © 2026 lvuCodes. `@lvucodes/ui` is published under GPL-3.0-or-later, so a site built from this template must also be licensed GPL-3.0-or-later and make its source available.
