@@ -14,12 +14,7 @@ Baseline commit `4218084` (2026-10-06). Regenerate with `node scripts/ai-attribu
 
 | Change type | Commits | By Claude | By the author |
 |---|---|---|---|
-| `chore` | 2 | 359 | 0 |
-| `test` | 1 | 144 | 0 |
-| `ci` | 3 | 27 | 0 |
-| `dependabot-fix` | 1 | 5 | 0 |
-| `refactor` | 1 | 2 | 0 |
-| `fix` | 1 | 0 | 0 |
+| `release` | 1 | 537 | 0 |
 
 ## Measurement Scope
 
@@ -47,4 +42,4 @@ Baseline commit `4218084` (2026-10-06). Regenerate with `node scripts/ai-attribu
 - `playwright-report/**`
 - `test-results/**`
 
-_Generated 2026-11-13 14:39:57Z.
+_Generated 2026-11-13 15:56:23Z.
